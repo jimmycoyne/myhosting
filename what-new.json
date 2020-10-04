@@ -1,0 +1,110 @@
+{
+    "schema-version": "1",
+    "40.10": {
+        "whats-new": [
+            {
+                "en-GB": [
+                    {
+                        "desktop": [
+                            {
+                                "id": "1001",
+                                "flag": "some_flag_to_enable"
+                                "title": "its amazing",
+                                "content": "you will love this "
+                            },
+                            {
+                                "id": "1001",
+                                "title": "its amazing",
+                                "content": "you will love this "
+                            }
+                        ],
+                        "mobile": [
+                            {
+                                "id": "1001",
+                                "title": "its amazing",
+                                "content": "you will love this "
+                            },
+                            {
+                                "id": "1001",
+                                "title": "its amazing",
+                                "content": "you will love this "
+                            }
+                        ]
+                    }
+                ],
+                "es": [
+                    {
+                        "desktop": [
+                            {
+                                "id": "1001",
+                                "title": "its amazing",
+                                "content": "you will love this "
+                            },
+                            {
+                                "id": "1001",
+                                "title": "its amazing",
+                                "content": "you will love this "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "possible-other-section": [
+            {
+                "id": "1001",
+                "type": "Regular"
+            },
+            {
+                "id": "1002",
+                "type": "Chocolate"
+            },
+            {
+                "id": "1003",
+                "type": "Blueberry"
+            },
+            {
+                "id": "1004",
+                "type": "Devil's Food"
+            }
+        ]
+    },
+    "40.11": {
+        "whats-new": [
+            {
+                "id": "1001",
+                "title": "Regular"
+            },
+            {
+                "id": "1002",
+                "title": "Chocolate"
+            },
+            {
+                "id": "1003",
+                "title": "Blueberry"
+            },
+            {
+                "id": "1004",
+                "tile": "Devil's Food"
+            }
+        ],
+        "possible-other-section": [
+            {
+                "id": "1001",
+                "type": "Regular"
+            },
+            {
+                "id": "1002",
+                "type": "Chocolate"
+            },
+            {
+                "id": "1003",
+                "type": "Blueberry"
+            },
+            {
+                "id": "1004",
+                "type": "Devil's Food"
+            }
+        ]
+    }
+}

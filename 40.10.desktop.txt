@@ -1,0 +1,17 @@
+
+#id=1
+#flag=some_flag_to_enable
+#title
+This is a title that you might like 
+#content 
+this is some content that you might like 
+
+And this is a new line which we will keep.
+
+
+#id=2
+#title
+This is a title that you might like 
+#content 
+this is some content that you might like
+
