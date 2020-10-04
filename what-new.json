@@ -8,7 +8,7 @@
                         "desktop": [
                             {
                                 "id": "1001",
-                                "flag": "some_flag_to_enable"
+                                "flag": "some_flag_to_enable",
                                 "title": "its amazing",
                                 "content": "you will love this "
                             },
